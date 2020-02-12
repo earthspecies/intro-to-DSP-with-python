@@ -6,7 +6,8 @@ No math beyond high school math needed. Basic programming skills required.
 
 ## Table of contents
 
-1. [What is sound?](https://github.com/earthspecies/from_zero_to_DSP/blob/master/01_What_is_sound%3F.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/earthspecies/from_zero_to_DSP/blob/master/01_What_is_sound%3F.ipynb)
+1. [What is sound?](https://github.com/earthspecies/from_zero_to_DSP/blob/master/01_What_is_sound%3F.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/earthspecies/from_zero_to_DSP/blob/master/01_What_is_sound%3F.ipynb)
+
 
 ## Useful resources
 
