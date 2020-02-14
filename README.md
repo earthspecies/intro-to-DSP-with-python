@@ -2,7 +2,7 @@
 
 Notebooks on working with digital signals (audio) in Python.
 
-No math beyond high school math needed. Basic programming skills required.
+No maths beyond high school maths needed. Basic programming skills required.
 
 ## Table of contents
 
