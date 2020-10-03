@@ -1,4 +1,4 @@
-## Hands-On Intro To DSP with Python
+## DSP with Python: A Hands-on Introduction
 
 Notebooks on working with digital signals (audio) in Python.
 
