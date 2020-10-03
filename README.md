@@ -1,4 +1,4 @@
-## From Zero to DSP
+## Hands-On Intro To DSP with Python
 
 Notebooks on working with digital signals (audio) in Python.
 
